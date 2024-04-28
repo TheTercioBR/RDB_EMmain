@@ -3,16 +3,16 @@
 
    "Arma1":{
     "DanoVL": 0,
-	  "Custa": 100
+    "Custa": 100
     },
 	
-	"Arma2":{
+   "Arma2":{
     "DanoVL": 0,
-	  "Custa": 200
+    "Custa": 200
     },
 	
   "Arma3":{
     "DanoVL": 0,
-	  "Custa": 300
+    "Custa": 300
     }
 }
