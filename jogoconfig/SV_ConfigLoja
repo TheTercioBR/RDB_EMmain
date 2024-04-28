@@ -1,0 +1,18 @@
+{
+  "StatusLoja": true,
+
+   "Arma1":{
+    "DanoVL": 0,
+	  "Custa": 100
+    },
+	
+	"Arma2":{
+    "DanoVL": 0,
+	  "Custa": 200
+    },
+	
+  "Arma3":{
+    "DanoVL": 0,
+	  "Custa": 300
+    }
+}
