@@ -1,0 +1,17 @@
+{
+
+ "Dev_RadioStatus":{
+  "Dev_R_Value" = false,
+	"Dev_Motivo_Value" = false,
+	"Dev_Motivo_Texto" = "Sem nenhum motivo informado pela Equipe RDB. Infelizmente..."
+ },
+ 
+ "Dev_OfflineSV":{
+  "Dev_Tela_Offline" = false,
+	"Dev_Motivo_Off" = "Sem Motivo.",
+	--Em Testes, definir o tempo que vai permanecer "OFFLINE", ate seu fim.
+	"LvEvt_Value" = false,
+	"Dev_Temp_Inicio" = 0,
+	"Dev_Temp_Fim" = 0
+ }
+}
