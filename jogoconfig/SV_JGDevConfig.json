@@ -1,6 +1,6 @@
 {
  "Dev_RadioStatus":{
-       "Dev_R_Value" = "false",
+       "Dev_R_Value" = false,
        "Dev_Motivo_Value" = false,
        "Dev_Motivo_Texto" = "Sem nenhum motivo informado pela Equipe RDB. Infelizmente..."
  },
