@@ -1,0 +1,18 @@
+{
+  "Estrogonofe": {
+    "EventName": "Estrogonofe_BD_Dev_Demo",
+
+    "CountdownDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 28,
+      "hour": 14,
+      "minutes": 0,
+      "seconds": 0
+    },
+
+    "Explosions": {
+      "Estrogonofe_Exp01_Start": 1729784499,
+      "Estrogonofe_Exp02_Start": 1729870899
+    },
+  },
