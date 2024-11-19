@@ -1,6 +1,15 @@
 {
   "StatusLoja": true,
 
+   "CountdownDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 28,
+      "hour": 14,
+      "minutes": 0,
+      "seconds": 0
+    },
+
    "Arma1":{
     "DanoVL": 0,
     "Custa": 100
